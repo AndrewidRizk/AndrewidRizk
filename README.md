@@ -10,11 +10,12 @@
 -  I’m continuously learning a new coding languesges and tools🌱
 -  I'm working on new projects 🏗
 
-### Things I am passionate about
+### Things I am passionate about ✌
 - Coding 🤷‍♂️
 - Gamming 🎮
 - Vollyball 🏐
 - Workout 💪
+- Food 😋
 
 ### Get in touch ☕
 - Email: Androwmaged47@gmail.com
