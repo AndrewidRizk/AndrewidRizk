@@ -1,6 +1,6 @@
 ### Hello World 👋                        
 ### My name is Andrew Rizk 🙋‍♂️.           
-### Born and raised in Egypt 🇪🇬        
+### Born and raised in Egypt ☥
 
 
 
