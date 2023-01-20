@@ -3,7 +3,7 @@
 
 ### Bio 🙋‍♂️
 - A second year student in York University 📖 
-- I'm orn and raised in Egypt ☥
+- I'm born and raised in Egypt ☥
 - I moved to Canada when I was 17 🍁
 - My zodiac sign is Taurus ♉ 
 - I’m currently working in Amazon YYZ1 🔭  
