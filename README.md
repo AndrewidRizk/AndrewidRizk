@@ -1,6 +1,7 @@
-### Hello World 👋
-### My name is Andrew Rizk 🙋‍♂️.
-### Born and raised in Egypt 🐪🦅:sphinx:
+### Hello World 👋                        
+### My name is Andrew Rizk 🙋‍♂️.           
+### Born and raised in Egypt 🐪🦅 𓋹 👁       
+
 
 
 
