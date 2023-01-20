@@ -5,15 +5,10 @@
 - A second year student in York University 📖 
 - Born and raised in Egypt ☥
 - I Moved to Canada when I was 17 🍁
-- My zodiac sign is Taurus ♉
-
-### Hello World 👋   
-- 🔭 I’m currently working in Amazon YYZ1   
-- currently status:
-    def Goal():
-        new_coding_languge()
-        new_project()
-        Goal()
+- My zodiac sign is Taurus ♉ 
+-  I’m currently working in Amazon YYZ1 🔭  
+-  I’m contenusly learning a new codes and tools🌱
+-  I'm working on new projects 🏗
 
 ### Things I am passionate about
 - Coding 🤷‍♂️
