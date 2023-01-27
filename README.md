@@ -7,7 +7,7 @@
 - I moved to Canada when I was 17 🍁
 - My zodiac sign is Taurus ♉ 
 - I’m currently working in Amazon YYZ1 🔭  
-- I’m continuously learning a new coding languages and tools🌱
+- I’m continuously learning new coding languages and tools🌱
 - I'm working on new projects 🏗
 
 ### Things I am passionate about ✌
