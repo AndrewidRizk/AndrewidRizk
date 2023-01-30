@@ -12,7 +12,7 @@
 
 ### Things I am passionate about ✌
 - Coding 🤷‍♂️
-- Gamming 🎮
+- Gaming 🎮
 - Vollyball 🏐
 - Workout 💪
 - Food 😋
