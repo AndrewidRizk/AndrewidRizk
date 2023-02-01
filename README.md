@@ -13,10 +13,11 @@
 ### Things I am passionate about ✌
 - Coding 🤷‍♂️
 - Gaming 🎮
-- Vollyball 🏐
+- Reading 📖
+- Volleyball 🏐
 - Workout 💪
 - Food 😋
-- Reading 📖
+
 ### Hackathons ⚔
 - DeltaHacks
 - CSHub LHD 
