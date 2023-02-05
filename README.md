@@ -8,7 +8,7 @@
 - My zodiac sign is Taurus ♉ 
 - I’m currently working in Amazon YYZ1 🔭  
 - I’m continuously learning new coding languages and tools🌱
-- I'm working on new projects 🏗
+- I'm working on developing a sofrware for my business- My-Amazon-Seller-Item-Organizer  🏗
 
 ### Things I am passionate about ✌
 - Coding 🤷‍♂️
