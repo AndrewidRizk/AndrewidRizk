@@ -40,7 +40,7 @@
 		<a/>
 	    <a />
 	</p>
-	<h3 id="software">Frameworks and Tools</h3>
+	<h3 id="software">Frameworks, Software and Tools</h3>
 	<p>
 		<a href="#"><img alt="Discord.js" src="https://custom-icon-badges.demolab.com/badge/Discord.js-orange.svg?logo=djs"/>
 	    <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"/>
