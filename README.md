@@ -3,7 +3,7 @@
 
 
  
- ### stats 📈
+ ### Stats 📈
  <p align="center">
 	    <a href="https://coderstats.net/github/#AndrewidRizk">
 		     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AndrewidRizk&custom_title=AndrewidRizk's%20GitHub%20Activity%20Graph&theme=react&hide_border=true&area=true" alt="Andrewid's Github Activity Graph" width="100%">
