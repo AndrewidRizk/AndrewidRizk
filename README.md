@@ -1,10 +1,10 @@
-### I'm Andrew Rizk 👋                         
+## I'm Andrew Rizk 👋                         
 <img src="https://user-images.githubusercontent.com/97995173/218375450-83500eca-1d83-4fe9-9317-840a8482cdc3.PNG" width="480" height="270">   <img src="https://user-images.githubusercontent.com/97995173/218374363-f4dc2c66-67a0-422f-a005-b932bad99a4d.gif" width="350" height="270">
 
 
 
  
- ### Stats 📈
+ ## Stats 📈
  <p align="center">
 	    <a href="https://coderstats.net/github/#AndrewidRizk">
 		     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AndrewidRizk&custom_title=AndrewidRizk's%20GitHub%20Activity%20Graph&theme=react&hide_border=true&area=true" alt="Andrewid's Github Activity Graph" width="100%">
@@ -24,7 +24,7 @@
 
 
 
-### Things I am passionate about ✌
+## Things I am passionate about ✌
 - Coding 🤷‍♂️
 - Gaming 🎮
 - Reading 📖
@@ -32,7 +32,7 @@
 - Workout 💪
 - Food 😋
  
-### Hackathons ⚔
+## Hackathons ⚔
 - DeltaHacks
 - CSHub LHD 
 - Hackville
