@@ -11,7 +11,7 @@
 	      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AndrewidRizk&show_icons=true&count_private=true&theme=react&hide_border=true" / width="400" height="200"> 
 	      <img src="https://github-readme-streak-stats.herokuapp.com?user=AndrewidRizk&theme=github-dark-blue&hide_border=true&fire=DDDDDD" /  width="400" height="200">
 	    
-		    </p>
+		    
  ## More About Me 🙋‍♂️
 - If it does not exist. We are working on it. 🔥💪
 - A second year student in York University 📖 
