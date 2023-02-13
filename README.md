@@ -1,7 +1,16 @@
 ### I'm Andrew Rizk 👋                         
 ![Hello world](https://user-images.githubusercontent.com/97995173/213803886-bdbd604c-5511-4544-b59b-0b4452aa8ad4.png)
  
-
+ 
+ <p align="center">
+	    <a href="https://coderstats.net/github/#AndrewidRizk">
+	      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AndrewidRizk&show_icons=true&count_private=true&theme=react&hide_border=true"/>
+	      <img src="https://github-readme-streak-stats.herokuapp.com?user=AndrewidRizk&theme=github-dark-blue&hide_border=true&fire=DDDDDD" />
+	    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AndrewidRizk&custom_title=AndrewidRizk's%20GitHub%20Activity%20Graph&theme=react&hide_border=true&area=true" alt="Andrewid's Github Activity Graph" width="100%">
+	    </a>
+  	</p>
+ 
+ 
  
  
  
