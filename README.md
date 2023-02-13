@@ -1,6 +1,16 @@
 ### I'm Andrew Rizk 👋                         
 <img src="https://user-images.githubusercontent.com/97995173/218375450-83500eca-1d83-4fe9-9317-840a8482cdc3.PNG" width="480" height="270">   <img src="https://user-images.githubusercontent.com/97995173/218374363-f4dc2c66-67a0-422f-a005-b932bad99a4d.gif" width="350" height="270">
 
+### Bio 🙋‍♂️
+- If it does not exist. We are working on it. 🔥💪
+- A second year student in York University 📖 
+- I'm born and raised in Egypt ☥
+- I moved to Canada when I was 17 🍁
+- My zodiac sign is Taurus ♉ 
+- I’m currently working in Amazon YYZ1 🔭  
+- I’m continuously learning new coding languages and tools🌱
+- I'm working on developing a sofrware for my business- My-Amazon-Seller-Item-Organizer  🏗
+
 
  
  ### Stats 📈
@@ -24,15 +34,6 @@
  
  
  
-### Bio 🙋‍♂️
-- If it does not exist. We are working on it. 🔥💪
-- A second year student in York University 📖 
-- I'm born and raised in Egypt ☥
-- I moved to Canada when I was 17 🍁
-- My zodiac sign is Taurus ♉ 
-- I’m currently working in Amazon YYZ1 🔭  
-- I’m continuously learning new coding languages and tools🌱
-- I'm working on developing a sofrware for my business- My-Amazon-Seller-Item-Organizer  🏗
 
 ### Things I am passionate about ✌
 - Coding 🤷‍♂️
