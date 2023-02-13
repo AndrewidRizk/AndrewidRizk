@@ -12,7 +12,7 @@
 	      <img src="https://github-readme-streak-stats.herokuapp.com?user=AndrewidRizk&theme=github-dark-blue&hide_border=true&fire=DDDDDD" /  width="400" height="200">
 	    
  
- ### More About Me 🙋‍♂️
+ ## More About Me 🙋‍♂️
 - If it does not exist. We are working on it. 🔥💪
 - A second year student in York University 📖 
 - I'm born and raised in Egypt ☥
