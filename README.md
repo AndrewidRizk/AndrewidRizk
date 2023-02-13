@@ -1,6 +1,29 @@
 ### I'm Andrew Rizk 👋                         
 ![Hello world](https://user-images.githubusercontent.com/97995173/213803886-bdbd604c-5511-4544-b59b-0b4452aa8ad4.png)
  
+ 
+ <p align="center">
+	    <a href="https://coderstats.net/github/#royce-mathew">
+	      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=royce-mathew&show_icons=true&count_private=true&theme=react&hide_border=true"/>
+	      <img src="https://github-readme-streak-stats.herokuapp.com?user=royce-mathew&theme=github-dark-blue&hide_border=true&fire=DDDDDD" />
+	    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=royce-mathew&custom_title=Royce%20Mathew's%20GitHub%20Activity%20Graph&theme=react&hide_border=true&area=true" alt="Royce Mathew's Github Activity Graph" width="100%">
+	    </a>
+  	</p>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ### Bio 🙋‍♂️
 - If it does not exist. We are working on it. 🔥💪
 - A second year student in York University 📖 
