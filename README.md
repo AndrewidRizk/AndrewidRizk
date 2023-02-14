@@ -30,12 +30,15 @@
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></a>
   <a href="https://github.com/search?q=user%AndrewidRizk+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
   <a href="https://github.com/search?q=user%AndrewidRizk+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+		<a  href="https://github.com/search?q=user%AndrewidRizk+language%3Ajava"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white"></a>
   <a href="https://github.com/search?q=user%AndrewidRizk+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+		<a  href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=sql&logoColor=white"></a>
   <a href="https://github.com/search?q=user%AndrewidRizk+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
   <a href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+		<a href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"></a>
 <a  href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="C" src="https://img.shields.io/badge/language-00599C?logo=c&logoColor=white&color=00599C"></a>
 	<a  href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="Verilog" src="https://img.shields.io/badge/Verilog-1382A7?logo=xilinx&logoColor=white"></a>
-		<a  href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=sql&logoColor=white"></a>
+		
 
 
 </p>
