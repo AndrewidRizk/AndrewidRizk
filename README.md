@@ -31,13 +31,16 @@
   <a href="https://github.com/search?q=user%AndrewidRizk+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
   <a href="https://github.com/search?q=user%AndrewidRizk+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 		<a  href="https://github.com/search?q=user%AndrewidRizk+language%3Ajava"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%AndrewidRizk+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/search?q=user%AndrewidRizk+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> 
+		    </br>
 		<a  href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=sql&logoColor=white"></a>
   <a href="https://github.com/search?q=user%AndrewidRizk+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
   <a href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 		<a href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"></a>
 <a  href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="C" src="https://img.shields.io/badge/language-00599C?logo=c&logoColor=white&color=00599C"></a>
 	<a  href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="Verilog" src="https://img.shields.io/badge/Verilog-1382A7?logo=xilinx&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="Visual Basic" src="https://img.shields.io/badge/Visual%20Basic-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
+
 		
 
 
@@ -57,16 +60,27 @@
 	    <a/>
 	    <a/>
 	    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"/>
+		    </br>
 	    <a/>
 	    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-		    
-	</p>
+		<a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-F05033.svg?logo=pycharm&logoColor=white"/></a>
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-34A853.svg?logo=intellij-idea&logoColor=white"></a>
+		    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white"></a>
+		    <a href="#"><img alt="MySQL Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?logo=mysql&logoColor=white"></a>
+
+
+
+	
 		    
  
 ## Hackathons ⚔
-- DeltaHacks
-- CSHub LHD 
-- Hackville
+- DeltaHacks <a href="https://deltahacks.com/"><img alt="DeltaHacks" src="https://img.shields.io/badge/DeltaHacks-2023-blue"></a>
+
+- CSHub LHD <a href="https://yorku.campuslabs.ca/engage/organization/cshub"><img alt="CSHub LHD" src="https://img.shields.io/badge/CSHub-LHD-%23337ab7"></a>
+
+
+- Hackville <a href="https://hackville.io/"><img alt="Hackville" src="https://img.shields.io/badge/Hackville-2C2E43?logoColor=white"></a>
+
 
 ## Get in touch ☕
 - Email: Androwmaged47@gmail.com
