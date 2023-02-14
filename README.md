@@ -33,7 +33,9 @@
   <a href="https://github.com/search?q=user%AndrewidRizk+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="https://github.com/search?q=user%AndrewidRizk+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
   <a href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/-00599C?logo=c&logoColor=white&color=00599C"></a>
+<a  href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="C" src="https://img.shields.io/badge/language-00599C?logo=c&logoColor=white&color=00599C"></a>
+	<a  href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="Verilog" src="https://img.shields.io/badge/Verilog-1382A7?logo=xilinx&logoColor=white"></a>
+
 </p>
 	<h3 id="software">Frameworks, Software and Tools</h3>
 	<p>
