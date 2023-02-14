@@ -26,7 +26,7 @@
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndrewidRizk&theme=react&hide_border=true&layout=compact"/>
 	<h3 id="programming_languages">Programming Languages</h3>
 	<p>
-  <a href="https://github.com/search?q=user%AndrewidRizk+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-black.svg?logo=asm-hex&logoColor=white"></a>
+  <a href="#"><img alt="RISC-V" src="https://img.shields.io/badge/RISC--V-005AFF?logo=riscv&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></a>
   <a href="https://github.com/search?q=user%AndrewidRizk+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
   <a href="https://github.com/search?q=user%AndrewidRizk+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
