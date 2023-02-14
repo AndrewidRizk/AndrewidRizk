@@ -26,22 +26,15 @@
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndrewidRizk&theme=react&hide_border=true&layout=compact"/>
 	<h3 id="programming_languages">Programming Languages</h3>
 	<p>
-		<a href="https://github.com/search?q=user%AndrewidRizk+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-black.svg?logo=asm-hex&logoColor=white"/>
-	    <a />
-	    <a />
-	    <a/>
-			
-	    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-	    <a href="https://github.com/search?q=user%AndrewidRizk+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"/>
-	    <a href="https://github.com/search?q=user%AndrewidRizk+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"/>
-	    <a href="https://github.com/search?q=user%AndrewidRizk+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
-	    <a href="https://github.com/search?q=user%AndrewidRizk+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"/>
-	    <a ></a>
-	    <a/>
-	    <a href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
-		<a/>
-	    <a />
-	</p>
+  <a href="https://github.com/search?q=user%AndrewidRizk+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-black.svg?logo=asm-hex&logoColor=white"></a>
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%AndrewidRizk+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%AndrewidRizk+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%AndrewidRizk+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/search?q=user%AndrewidRizk+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%AndrewidRizk+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="C" src="https://img.shields.io/badge/-00599C?logo=c&logoColor=white&color=00599C"></a>
+</p>
 	<h3 id="software">Frameworks, Software and Tools</h3>
 	<p>
 		<a href="#"><img alt="Discord.js" src="https://custom-icon-badges.demolab.com/badge/Discord.js-orange.svg?logo=djs"/>
