@@ -27,7 +27,7 @@
 - My zodiac sign is Taurus ♉ 
 - I’m currently working in Amazon YYZ1 🔭  
 - I’m continuously learning new coding languages and tools🌱
-- I'm working on developing a sofrware for my business- My-Amazon-Seller-Item-Organizer  🏗
+- I'm working on developing my own website - portfolio
 
 <h1 id="experience">Experience</h1>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndrewidRizk&theme=react&hide_border=true&layout=compact"/>
