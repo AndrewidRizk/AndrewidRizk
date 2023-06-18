@@ -5,14 +5,22 @@
 
   
 ## Stats 📈 
+<details>
 <p align="center">
-  <a href="https://coderstats.net/github/#AndrewidRizk">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AndrewidRizk&custom_title=AndrewidRizk's%20GitHub%20Activity%20Graph&theme=react&hide_border=true&area=true" alt="Andrewid's Github Activity Graph" width="100%">
-
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AndrewidRizk&show_icons=true&count_private=true&theme=react&hide_border=true" width="400" height="200"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AndrewidRizk&theme=github-dark-blue&hide_border=true&fire=DDDDDD" width="400" height="200">
+  <a href="https://github.com/AndrewidRizk">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewidRizk&theme=transparent" />
+  </a>
+  <a href="https://github.com/AndrewidRizk">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewidRizk&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/AndrewidRizk">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndrewidRizk&theme=transparent" />
+  </a>
+  <a href="https://github.com/AndrewidRizk">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewidRizk&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
+</details>
 
 	    
 		     
