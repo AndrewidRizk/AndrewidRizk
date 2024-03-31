@@ -78,16 +78,7 @@
 
  
 	
-		    
- 
-## Hackathons ⚔
-- DeltaHacks <a href="https://deltahacks.com/"><img alt="DeltaHacks" src="https://img.shields.io/badge/DeltaHacks-2023-blue"></a>
-
-- CSHub LHD <a href="https://yorku.campuslabs.ca/engage/organization/cshub"><img alt="CSHub LHD" src="https://img.shields.io/badge/CSHub-LHD-%23337ab7"></a>
-
-
-- Hackville <a href="https://hackville.io/"><img alt="Hackville" src="https://img.shields.io/badge/Hackville-2C2E43?logoColor=white"></a>
-
+	
 
 ## Get in touch ☕
 - Email: Androwmaged47@gmail.com
