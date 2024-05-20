@@ -1,5 +1,5 @@
 ## I'm Andrew Rizk 👋                                     
-<img src="https://user-images.githubusercontent.com/97995173/218375450-83500eca-1d83-4fe9-9317-840a8482cdc3.PNG" width="480" height="270">   <img src="https://user-images.githubusercontent.com/97995173/218374363-f4dc2c66-67a0-422f-a005-b932bad99a4d.gif" width="350" height="270">    
+<img src="https://user-images.githubusercontent.com/97995173/218375450-83500eca-1d83-4fe9-9317-840a8482cdc3.PNG" width="480" height="270">   <img src="https://user-images.githubusercontent.com/97995173/218374363-f4dc2c66-67a0-422f-a005-b932bad99a4d.gif" width="350" height="270">     
  
     
     
