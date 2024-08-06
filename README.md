@@ -6,7 +6,7 @@
                   
 ## Stats 📈  
 <p align="center">
-  <a href="https://github.com/AndrewidRizk">
+  <a href="https://github.com/AndrewidRizk"> 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewidRizk&theme=transparent" />
   </a>
   <a href="https://github.com/AndrewidRizk">
