@@ -17,18 +17,7 @@
   </a>
 </p>
 
-	          
-		     
- ## More About Me 🙋‍♂️
-- If it does not exist. We are working on it. 🔥💪
-- A second year student in York University 📖 
-- I'm born and raised in Egypt ☥
-- I moved to Canada when I was 17 🍁
-- My zodiac sign is Taurus ♉ 
-- I’m currently working in Amazon YYZ1 🔭  
-- I’m continuously learning new coding languages and tools🌱
-- I'm working on developing my own website - portfolio
-
+ 
 <h1 id="experience">Experience</h1>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndrewidRizk&theme=react&hide_border=true&layout=compact"/>
 	<h3 id="programming_languages">Programming Languages</h3>
